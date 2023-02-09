@@ -36,7 +36,7 @@
   #else
                 esc    spc    tab         ent    bspc   del
   #endif
-  U_QUOT
+  ;
 #elif defined (MIRYOKU_MAPPING_TAP)
   q      w      f      p      b           j      l      u      y      U_QUOT
   a      r      s      t      g           m      n      e      i      o
